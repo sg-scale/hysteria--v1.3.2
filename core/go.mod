@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/coreos/go-iptables v0.6.0
 	github.com/google/gopacket v1.1.19
-	github.com/hashicorp/golang-lru/v2 v2.0.1
+	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/lucas-clemente/quic-go v0.31.0
 	github.com/lunixbochs/struc v0.0.0-20200707160740-784aaebc1d40
 	github.com/oschwald/geoip2-golang v1.8.0
