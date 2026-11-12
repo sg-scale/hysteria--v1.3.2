@@ -1,6 +1,6 @@
 module github.com/apernet/hysteria/core
 
-go 1.18
+go 1.23
 
 require (
 	github.com/coreos/go-iptables v0.6.0
@@ -11,7 +11,7 @@ require (
 	github.com/oschwald/geoip2-golang v1.8.0
 	github.com/prometheus/client_golang v1.14.0
 	github.com/txthinking/socks5 v0.0.0-20220212043548-414499347d4a
-	golang.org/x/sys v0.1.1-0.20221102194838-fc697a31fa06
+	golang.org/x/sys v0.13.0
 )
 
 require (
